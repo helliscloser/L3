@@ -21,5 +21,8 @@
 
     <!-- Application name -->
     <string name="cherish_app_name" translatable="false">CherishLauncher</string>
+    
+    <!-- Folder titles -->
+    <string name="google_folder_title" translatable="false">Google</string>
 
 </resources>
